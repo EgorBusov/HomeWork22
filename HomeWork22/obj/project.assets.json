@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1\\Desktop\\C#\\C# osnova\\Домашки\\HomeWork22\\HomeWork22\\HomeWork22.csproj",
+      "projectUniqueName": "C:\\Users\\1\\Desktop\\C#\\C# osnova\\HomeWork22\\HomeWork22\\HomeWork22.csproj",
       "projectName": "HomeWork22",
-      "projectPath": "C:\\Users\\1\\Desktop\\C#\\C# osnova\\Домашки\\HomeWork22\\HomeWork22\\HomeWork22.csproj",
+      "projectPath": "C:\\Users\\1\\Desktop\\C#\\C# osnova\\HomeWork22\\HomeWork22\\HomeWork22.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1\\Desktop\\C#\\C# osnova\\Домашки\\HomeWork22\\HomeWork22\\obj\\",
+      "outputPath": "C:\\Users\\1\\Desktop\\C#\\C# osnova\\HomeWork22\\HomeWork22\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

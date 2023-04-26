@@ -2,11 +2,13 @@
 {
     public static double ConvertToDouble(string value)
     {
-        if(value == null) return 0;
+        if (value == null) return 0;
+        bool checkMinus = false;//наличие знака минус
         bool checkComma = false;//проверка на запятую
         double result = 0, afterComma = 0;//результат и число после запятой
         ulong toComma = 0; // до запятой
-        char[] chars = value.ToCharArray();
+        List<char> chars = value.ToCharArray().ToList();
+        if (chars[0] == '-') { chars.Remove('-'); checkMinus = true; }
         foreach (char c in chars)
         {
             if (c == ',' || c == '.' && checkComma == false) { checkComma = true; continue; }
@@ -44,17 +46,18 @@
                     case '0': afterComma *= 10; afterComma += 0; break;
                 }
             }
-        } 
-        if(chars.Length > 17) { throw new Exception("Тип double может вмещать не более 16 значащих цифр"); }
+        }
+        if (chars.Count > 17) { throw new Exception("Тип double может вмещать не более 16 значащих цифр"); }
         ulong i = 10; //число на которое нужно разделить afterComma, чтобы получить 0.afterComma
-        while(true) //не хотел использовать Convert.ToString, чтобы узнать количество цифр
-        { 
-            if ((afterComma / i) < 1) { break; } 
-            i *= 10; 
+        while (true) //не хотел использовать Convert.ToString, чтобы узнать количество цифр
+        {
+            if ((afterComma / i) < 1) { break; }
+            i *= 10;
         }
 
         result = toComma + (afterComma / i);
-        return result;
+        if (checkMinus) { return result * -1; }
+        else { return result; }
     }
     private static void Main(string[] args)
     {
