@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\bin\Debug\net6.0\HomeWork22.exe
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\bin\Debug\net6.0\HomeWork22.deps.json
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\bin\Debug\net6.0\HomeWork22.runtimeconfig.json
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\bin\Debug\net6.0\HomeWork22.dll
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\bin\Debug\net6.0\HomeWork22.pdb
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\HomeWork22.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\HomeWork22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\HomeWork22.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\HomeWork22.AssemblyInfo.cs
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\HomeWork22.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\HomeWork22.dll
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\refint\HomeWork22.dll
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\HomeWork22.pdb
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\HomeWork22.genruntimeconfig.cache
+C:\Users\1\Desktop\C#\C# osnova\Домашки\HomeWork22\HomeWork22\obj\Debug\net6.0\ref\HomeWork22.dll
